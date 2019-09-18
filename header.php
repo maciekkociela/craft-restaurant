@@ -4,7 +4,7 @@
  */
 ?>
 <!DOCTYPE html>
-<html>
+<html lang="<?php echo pll_current_language();?>">
 <head>
 	<meta charset="utf-8">
 	<title><?php the_title(); ?></title>
