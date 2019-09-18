@@ -1,0 +1,1 @@
+<div class="full-photo" style="background-image:url(<?php the_sub_field('photo'); ?>);"></div>
